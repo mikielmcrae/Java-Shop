@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 I. INSTALLATION INSTRUCTIONS
 
-If you don't have a JavaFX environment set up and would like to run TalkBox from your own machine, follow these steps.
+If you don't have a JavaFX environment set up and would like to run Java Shop from your own machine, follow these steps.
 
 (If you have a JavaFX environment set up already, you can skip to step _vi_).
 
