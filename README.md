@@ -7,13 +7,14 @@ Java Shop implements object-oriented programming, tasks, file reading and custom
 
 ~ Table of Contents ~
 
-I. Installation instructions
+I. [Installation instructions](#-installation-instructions)
 
-II. Feature preview
+II. [Feature preview](#-feature-preview)
 
-____________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
 
-I. INSTALLATION INSTRUCTIONS
+I. 
+<h1># Installation instructions</h1>
 
 If you don't have a JavaFX environment set up and would like to run Java Shop from your own machine, follow these steps.
 
@@ -126,4 +127,22 @@ From here, you can peruse all functionality of the UI! You can even edit the .cs
 Thank you!!!
 -Mikiel
 
+__________________________________________________________________________________________________________________________________________________________
 
+II. 
+
+<h1># Feature preview</h1>
+
+Take a look below at some of the functionality Java Shop offers customers!
+
+
+
+https://user-images.githubusercontent.com/86265908/174856944-c98f45f7-2cf9-4f98-934b-be499921d679.mov
+
+
+Forthcoming updates: implementing a selection box for alternative milks.
+
+
+Thanks for reading!
+
+--MM
