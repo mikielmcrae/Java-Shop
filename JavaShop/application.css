@@ -1,0 +1,23 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root, .dialog-pane {
+	-fx-font-family: "Lucida Grande";
+	-fx-background-color:#ECD398;
+	-fx-text-fill: rgb(253, 250, 209);
+}
+
+.listview {
+	-fx-text-fill: rgb(253, 250, 209);
+}
+
+.button{
+	-fx-color: #875008;
+	-fx-background-radius: 50px;
+	-fx-padding: 5px 10px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+}
+
+.button:hover, .listview:hover{
+	-fx-cursor: hand;
+}
