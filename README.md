@@ -133,6 +133,8 @@ II.
 
 <h1># Feature preview</h1>
 
+No need to download or set anything up.
+
 Take a look below at some of the functionality Java Shop offers customers!
 
 
